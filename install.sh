@@ -1,4 +1,4 @@
-url="https://github.com/ScottBrabo/CheckUser"
+url="https://github.com/ogenio/CheckUser"
 
 cd ~
 
@@ -88,7 +88,7 @@ function console_menu() {
     echo "[03] - Desinstalar CheckUser"
     echo "[00] - Sair"
     echo ""
-    echo "By @scottssh" | lolcat
+    
     echo -e "╚══════════════•⊱✦⊰•══════════════╝" | lolcat
 
     read -p "★ Escolha uma opção:  " option
